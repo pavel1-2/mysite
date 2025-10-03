@@ -1,0 +1,20 @@
+﻿body {
+    background-color: #f0f0f0;   /* фон страницы */
+    font-family: Arial, sans-serif;  /* шрифт текста */
+    margin: 20px;
+}
+
+h1 {
+    color: darkblue;       /* цвет заголовка */
+    text-align: center;    /* выравнивание заголовка по центру */
+}
+
+p {
+    font-size: 16px;       /* размер текста */
+}
+
+img {
+    display: block;
+    margin: 20px auto;     /* картинка по центру */
+    border-radius: 10px;   /* скруглённые края */
+}
